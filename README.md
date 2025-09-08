@@ -1,43 +1,43 @@
-<!-- Profile Banner -->
+<!-- Profile Picture -->
 <p align="center">
-  <img src="queen.jpg" alt="Queen" width="200" style="border-radius:50%">
+  <img src="queen.jpg.jpg" alt="Queen" width="200" style="border-radius:50%">
 </p>
 
-<h1 align="center">✨ Hi, I'm Queen ✨</h1>
+<h1 align="center">🌸 Hello, I'm Queen 🌸</h1>
 
 <p align="center">
-  🌸 Design Grafis | 🎨 Decoration | 💻 IT Enthusiast
+  🎨 Graphic Design | ✨ Decoration | 💻 IT Enthusiast
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
-Hi! I'm **Queen**, a passionate creative who loves exploring **Graphic Design**, **Decoration**, and the world of **IT**.  
-I enjoy learning new things, building friendships, and sharing creativity ✨.  
+Hi! I'm **Queen**, a creative mind who loves **design**, **decoration**, and exploring the endless world of **technology**.  
+I enjoy learning new IT skills, growing through creativity, and making new friends along the way 🌟.  
 
 ---
 
-## 🌐 Connect with me  
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://instagram.com/cr0wnshaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ GitHub Stats  
+## ⚡ GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=queensh4&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=queensh4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=queensh4&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=queensh4&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queensh4&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queensh4&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ I enjoy learning new things, building friendships, and sharing creativity ✨.
 
 ---
 
-## 🎉 Fun Touch  
+## 🎉 Fun Animation  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ff69b4&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Let's+learn+and+create+together+🌸;Always+open+to+friends+%26+collabs+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Exploring+Design+%26+Tech+🌸;Open+to+Friendship+%26+Collab+✨" />
 </p>
